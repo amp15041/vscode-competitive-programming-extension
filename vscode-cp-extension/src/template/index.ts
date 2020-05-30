@@ -1,0 +1,1 @@
+export { TemplateGenerator } from './templateGenerator';
